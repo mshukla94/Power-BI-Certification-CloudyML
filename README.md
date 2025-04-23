@@ -16,7 +16,7 @@ This repository contains the certificate of completion for the **Power BI Course
 
 ## 🖼️ Certificate Preview
 
-![Power BI Certificate](certificate.png)
+![Power BI Certificate](https://github.com/mshukla94/Power-BI-Certification-CloudyML/blob/main/certificate.png?raw=true)
 
 ---
 
